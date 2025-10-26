@@ -1,0 +1,8 @@
+{
+  "name": "AI Powerhouse com Gemini",
+  "description": "Uma aplicação web abrangente que demonstra as diversas capacidades da API Gemini, desde conversação em tempo real e geração de vídeo até pesquisa fundamentada e análise de conteúdo. Explore todo o espectro de ferramentas com IA em um só lugar.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
